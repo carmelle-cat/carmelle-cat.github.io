@@ -1,3 +1,8 @@
+
+---
+layout: page
+---
+
 More about me:
 
 
