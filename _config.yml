@@ -5,6 +5,5 @@ theme: jekyll-theme
 header_pages:
   - index.md
   - about.md
-  - cv.md
   - research.md
-  - projects.md
+
