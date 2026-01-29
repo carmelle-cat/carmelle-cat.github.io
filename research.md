@@ -2,6 +2,6 @@
 layout: page
 ---
 
-## Target Discovery
+# Target Discovery
 
-## ML for RNA therapeutics
+# ML for RNA therapeutics
