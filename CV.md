@@ -1,8 +1,9 @@
 ---
 title: CV
 layout: default
+permalink: /cv/
 ---
 
-<a href="https://carmelle-cat.github.io/assets/CATAMURA_CVDec2025.pdf">Download PDF</a>
+<a href="/assets/CATAMURA_CVDec2025.pdf">Download PDF</a>
 
-<iframe src="https://carmelle-cat.github.io/assets/CATAMURA_CVDec2025.pdf" width="100%" height="900px"></iframe>
+<iframe src="/assets/CATAMURA_CVDec2025.pdf" width="100%" height="900px"></iframe>
