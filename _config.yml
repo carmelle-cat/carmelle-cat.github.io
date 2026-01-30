@@ -23,7 +23,7 @@ email: carmelle@berkeley.edu
 description: I'm a computational biologist passionate about using data science and machine learning to answer fundamental questions in biology. My work sits at the intersection of genomics, bioinformatics, and artificial intelligence.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: mccatamura
+linkedin_username: mcatamur
 github_username:  carmelle-cat
 
 # Build settings
