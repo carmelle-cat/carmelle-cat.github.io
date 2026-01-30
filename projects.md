@@ -1,4 +1,6 @@
-# Sample Projects
+---
+title: Sample Projects
+---
 
 ## ?
 
