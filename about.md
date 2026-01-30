@@ -1,10 +1,6 @@
 ---
-title: About
+title: About Me
 ---
-
-More about me:
-
-
 <img src="https://pbs.twimg.com/media/GBQ87vWboAAxGM8?format=jpg&name=large" width="300" />
 
 
