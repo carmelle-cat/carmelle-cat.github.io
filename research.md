@@ -14,10 +14,14 @@ I am also deeply interested in applying machine learning approaches to the desig
 #### 3. Bridging Target Discovery and RNA Therapeutic Design in Single Cell
 I am especially excited by opportunities to connect these two areas by integrating large-scale genomics, machine learning–guided therapeutic design, and single-cell technologies. Single-cell approaches offer a powerful framework for studying splicing regulation and RNA processing within heterogeneous cellular populations, particularly in disease contexts such as cancer. I aim to contribute to the development of splicing-based intervention strategies.
 
+
+
 #### Publications 
 Catamura, C et al. "Designing de novo splicing with deep learning for the allele-specific suprression of the disease-causing genes." Manuscript in preparation (Submitting 2026).
 
 Biering, Scott B et al. “Genome-wide bidirectional CRISPR screens identify mucins as host factors modulating SARS-CoV-2 infection.” Nature genetics vol. 54,8 (2022): 1078-1089. doi:10.1038/s41588-022-01131-x
+
+
 
 #### Presentations
 
