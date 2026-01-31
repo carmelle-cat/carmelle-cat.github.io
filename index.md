@@ -1,1 +1,1 @@
-<img src="/assets/bioinforcatics.jpg" width="70%">
+<img src="/assets/bioinforcatics.JPG" width="70%">
