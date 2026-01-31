@@ -1,1 +1,1 @@
-![bioinforcatics](assets/bioinforcatics.jpg)
+![bioinforcatics](/assets/bioinforcatics.jpg)
