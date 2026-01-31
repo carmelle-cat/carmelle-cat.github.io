@@ -40,7 +40,7 @@ Co-authored with Prakruthi Burra. We designed this notebook as part of a biannua
 [View full notebook →](https://nbviewer.org/urls/carmelle-cat.github.io/notebooks/ml_bootcamp.ipynb)
 
 
-### A simple autoencoder for single cell immune cells
+### A simple autoencoder for immune single cells
 
 <iframe
   src="https://nbviewer.org/urls/carmelle-cat.github.io/notebooks/sc_autoencoder.ipynb"
@@ -52,7 +52,7 @@ Co-authored with Prakruthi Burra. We designed this notebook as part of a biannua
 [View notebook →](https://nbviewer.org/urls/carmelle-cat.github.io/notebooks/sc_autoencoder.ipynb)
 
 
-### Bagging classifier for single cell immune cells
+### Bagging classifier for immune single cells
 
 <iframe
   src="https://nbviewer.org/urls/carmelle-cat.github.io/notebooks/sc_classification.ipynb"
